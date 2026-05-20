@@ -1,6 +1,6 @@
 srs modding tools
 
-Features - run game checks and verify module integrity.
+features - run game checks and verify module integrity.
 
 extraction - tools to help extract and manage game archives.
 
