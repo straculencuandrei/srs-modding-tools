@@ -1,4 +1,4 @@
-#srs modding tools
+srs modding tools
 
 Features - run game checks and verify module integrity.
 
